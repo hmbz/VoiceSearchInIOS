@@ -13,7 +13,7 @@ class ViewController: UIViewController {
   @IBOutlet weak var hiddenview: UIView!
   @IBOutlet weak var texttobesearched: UILabel!
   var textt = ""
-
+    var new = ""
   override func viewDidLoad() {
     super.viewDidLoad()
     // Do any additional setup after loading the view.
